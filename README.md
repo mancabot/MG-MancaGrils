@@ -43,7 +43,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/mancabot/MG-MancaGrils.git
-> cd lucya-bot
+> cd MG-MancaGrils
 ```
 
 Install the dependencies:
