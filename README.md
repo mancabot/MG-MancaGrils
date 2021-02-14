@@ -13,9 +13,9 @@ ownerNumber = "62812xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [Whatsapp](https://wa.me/6281281817375)
-- [BOT WA](https://wa.me/6282115089860)
-- [GROUP WA](https://chat.whatsapp.com/LuZkEtgJz4kI6cOkAeHL5j)
+- [Whatsapp](https://wa.me/6283815956151)
+- [BOT WA](https://wa.me/994404762586)
+- [GROUP WA](https://chat.whatsapp.com/JL2P1ez4crxC9mFIVlmZEf)
 
 ## APIKEY
 
@@ -29,10 +29,10 @@ Open ./lib/functions.js edit vhtear with your VHTEARKEY
 
 - [SAWERIA](https://saweria.co/bdrsmsdn)
 - [TRAKTEER](https://trakteer.id/bdrsmsdn)
-- [OVO/DANA/GOPAY](081281817375)
-- [BCA](8480792000) an Badra Samsudin Ramdan N
+- [AXIS](083815956151)
+- [AXIS](083815956151) Isi Berapa Aja Ka pph kok kak
 
-Jangan lupa follow instagramku yaa! https://instagram.com/bdrsmsdn
+Jangan lupa follow instagramku yaa! https://instagram.com/thenay_xploit_
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Jangan lupa follow instagramku yaa! https://instagram.com/bdrsmsdn
 Clone this project
 
 ```bash
-> git clone https://github.com/Angga23Bot/lucya-bot.git
+> git clone https://github.com/mancabot/MG-MancaGrils.git
 > cd lucya-bot
 ```
 
