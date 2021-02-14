@@ -4769,8 +4769,8 @@ Twitter: https://twitter.com/bdrsmsdn`)
                     }
                     break
                 case `${prefix}mancagroup`:
-                    aksa.reply(dari, `➥ *Grup Official Informasi Manca-BOT I* https://chat.whatsapp.com/LuZkEtgJz4kI6cOkAeHL5j
-➥ *Grup Official Informasi Manca-BOT II* https://chat.whatsapp.com/G0MEd2wMcJhKupMqrWI6fB`, id)
+                    aksa.reply(dari, `➥ *Grup Official Informasi Manca-BOT I* https://chat.whatsapp.com/JL2P1ez4crxC9mFIVlmZEf
+➥ *Grup Official Informasi Manca-BOT II* https://chat.whatsapp.com/C8ftl866AcFFFqkWqIeyw7`, id)
                     break
                 default:
                     if (command.startsWith(`${prefix}`)) {
